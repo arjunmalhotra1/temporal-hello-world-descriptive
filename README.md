@@ -11,7 +11,9 @@
 In a separate terminal window.
 ```
 go run worker/main.go
-```![Screen Shot 2022-09-05 at 4 29 19 PM](https://user-images.githubusercontent.com/43081882/188516253-af765804-90b5-49e9-b313-85c27252dff6.png)
+```
+
+![Screen Shot 2022-09-05 at 4 29 19 PM](https://user-images.githubusercontent.com/43081882/188516291-23e8db5f-d330-4612-8623-283bb4f3e9bf.png)
 
 
 
@@ -20,4 +22,6 @@ In a separate terminal window.
 ```
 go run starter/main.go
 ```
-![Screen Shot 2022-09-05 at 4 29 07 PM](https://user-images.githubusercontent.com/43081882/188516259-956567e1-4ff0-4100-8910-906202739605.png)
+
+
+![Screen Shot 2022-09-05 at 4 29 07 PM](https://user-images.githubusercontent.com/43081882/188516301-a1af47e0-9619-41ab-8d81-d8fe6d1daf7e.png)
